@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 
-=======
 import java.awt.BorderLayout;
 import java.awt.Dimension;
 import java.awt.GridLayout;
@@ -8,7 +6,7 @@ import javax.swing.ImageIcon;
 import javax.swing.JButton;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
->>>>>>> test
+
 
 public class ProfilePanel extends JPanel{
 
@@ -56,11 +54,9 @@ JLabel name = new JLabel();
         //changes the index of the members array
 
         try{
-<<<<<<< HEAD
+
           //if points to a index =! 
-=======
-          //if points to a index =!
->>>>>>> test
+
         }
 		 catch(IndexOutOfBoundsException e){
        //reset to index 0
