@@ -1,48 +1,31 @@
 
+public class Member {
 
-public class Memeber {
+	protected String education, name, pic, job, phone, email, desc;
 
-  private String education, jobDiscription, fName, lName pic;
+	public Member(String name, String phone, String email, String desc) {
+		this.name = name;
+		this.phone = phone;
+		this.email = email;
+		this.desc = desc;
+	}
 
-public Member(String pic,String edu, String job, String first, String last ){
+	public String ProfilePic() {
 
-  this.pic = pic;
-  this.education = edu;
-  this.jobDiscription = job;
-  this.fname = first.
-  this.lname = last;
+		return pic;
 
-}
+	}
 
- public String ProfilePic(){
+	public String Education() {
 
-      return pic;
+		return education;
 
- }
+	}
 
- public String FirstName(){
+	public String Job() {
 
-      return fName;
+		return job;
 
- }
-
- public String LastName(){
-
-      return lName;
-
- }
-
- public String Education(){
-
-      return about;
-
- }
-
- public String Job(){
-
-      return jobDiscription;
-
- }
-
+	}
 
 }

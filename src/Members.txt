@@ -1,0 +1,19 @@
+name: Ali AlZarra
+phone: 406 218 1324
+E-mail: ali.alzarra@uconnect.umt.edu
+about me: i'm from saudi arabia. been in missoula for almost 4 years. I like gaming a lot and trying to be fit also you know health is important.
+
+name: Auston Rogers
+phone: 406-546-4781
+E-mail: auston.rogers@umconnect.umt.edu
+about me:I grew up in Missoula, and absolutely love it here. After graduating from Hellgate High School in 2012, I started attending the University of Montana, intending to get my Doctoral Degree in Pharmacy. After realizing that it wasn't for me, I remembered hearing about Computer Science from a friend of mine. I was hooked immediately.
+
+Name: Josh Anderson
+E-mail: janderson152481@gmail.com
+Phone: 910-849-4262
+About Me: I grew up west of Missoula, out in Frenchtown. After high school I joined the Army, did four years of service. Spent most of my time in Germany before getting sent to north carolina. Once getting out I went to school at Life university and played rugby. While there I had a teacher who turned me on to computer science. I decided to move back and get my Computer Science degree.
+
+name: Seth Thompson
+phone:(406)750-3382
+E-mail: seth1.thompson@umontana.edu
+about me: I am originally from Oregon. I have lived in many different cities and states throughout the Pacific NorthWest. I graduated from Corvallis High School in 2004. I have mainly worked in restaurants and bars. I have a passion for creating new and creative food and drinks. I am currently a bartender working to pay for school. After high school I worked at a few different restaurants, first as a cook and then to management and eventually owned my own restaurants with a business partner in Idaho. I have also always had a love for math and after spending 2 years growing my business with my partner, working 100 hour work weeks, I decided to sell my portion out to him and follow my other dream of math. Originally as a math major, I was looking into a a minor in computer science and eventually fell for the creativity allowed in programming and eventually switched my major to CS and my minor to math. And here I am now.
