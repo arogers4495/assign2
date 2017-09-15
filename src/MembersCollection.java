@@ -21,7 +21,8 @@ public class MembersCollection {
 			index++;
 			try {
 				membersScan.nextLine();
-			} catch (java.util.NoSuchElementException e) {// This bit of code deals with blank or empty lines
+			} 
+			catch (java.util.NoSuchElementException e) {// This bit of code deals with blank or empty lines
 			}
 		}
 	}

@@ -4,6 +4,7 @@ public class Member {
 	protected String education, name, pic, job, phone, email, desc;
 
 	public Member(String name, String phone, String email, String desc) {
+		
 		this.name = name;
 		this.phone = phone;
 		this.email = email;

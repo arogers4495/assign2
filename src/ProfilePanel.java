@@ -22,7 +22,7 @@ public class ProfilePanel extends JPanel {
 
 	public ProfilePanel() throws FileNotFoundException {
 		int index = 0;
-		MembersCollection group = new MembersCollection();// Initializes the array of group members
+		MembersCollection group = new MembersCollection(); // Initializes the array of group members
 
 		/*
 		 * This bit of code selects the appropriate group member based on the user's
