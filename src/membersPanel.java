@@ -3,14 +3,20 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class membersPanel {
-	File members = new File("");
+	File members = new File("./src/Members.txt");
 	Scanner membersScan;
-	private int numberOfMembers;
 
 	public membersPanel() throws FileNotFoundException {
 		membersScan = new Scanner(members);
-		String name = membersScan.nextLine();
-		String description = membersScan.nextLine();
-		numberOfMembers++;// Increments the number of members in the group
+		while (membersScan.hasNextLine()) {
+			String name = membersScan.nextLine().trim();
+			String phone = membersScan.nextLine().trim();
+			String eMail = membersScan.nextLine().trim();
+			String description = membersScan.nextLine().trim();
+			try {
+				membersScan.nextLine();
+			} catch (java.util.NoSuchElementException e) {// This bit of code deals with blank or empty lines
+			}
+		}
 	}
 }
