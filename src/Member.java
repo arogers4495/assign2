@@ -2,7 +2,11 @@
 
 public class Memeber {
 
+<<<<<<< HEAD
   private String education, jobDiscription, fName, lName pic; 
+=======
+  private String education, jobDiscription, fName, lName pic;
+>>>>>>> test
 
 public Member(String pic,String edu, String job, String first, String last ){
 
