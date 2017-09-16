@@ -6,7 +6,7 @@ public class MainFrame {
 
 		JFrame frame = new JFrame();
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		frame.getContentPane().add(new ProfilePanel());
+		frame.getContentPane().add(new membersPanel());
 
 		frame.pack();
 		frame.setVisible(true);

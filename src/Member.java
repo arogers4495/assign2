@@ -1,52 +1,43 @@
+public class Member {
 
+	private String email, discription, name, phoneNum;
 
-public class Memeber {
+	public Member(String name, String phoneNum,String email, String job) {
 
-<<<<<<< HEAD
-  private String education, jobDiscription, fName, lName pic; 
-=======
-  private String education, jobDiscription, fName, lName pic;
->>>>>>> test
+		this.phoneNum = phoneNum;
+		  this.email = email;
+		  this.discription = job;
+		  this.name = name;
 
-public Member(String pic,String edu, String job, String first, String last ){
+	}
 
-  this.pic = pic;
-  this.education = edu;
-  this.jobDiscription = job;
-  this.fname = first.
-  this.lname = last;
+	public String getPhoneNum(){
 
-}
+	      return phoneNum;
 
- public String ProfilePic(){
+	 }
 
-      return pic;
+	 public String getName(){
 
- }
+	return name;
 
- public String FirstName(){
+	 }
 
-      return fName;
+	 public String getDiscription(){
 
- }
+	      return discription;
 
- public String LastName(){
+	 }
 
-      return lName;
+	 public String getEmail(){
 
- }
+	      return email;
 
- public String Education(){
+	 }
 
-      return about;
+	 public String toString(){
 
- }
-
- public String Job(){
-
-      return jobDiscription;
-
- }
-
+	     return name + "/n" + phoneNum +"/n"+ email +"/n"+ discription;
+	 }
 
 }
